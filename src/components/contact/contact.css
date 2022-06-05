@@ -1,0 +1,31 @@
+.contact{
+    margin: auto;
+    width: 30%;
+    padding: 10px;
+  }
+  .contact h3{
+    font-size: 40px;
+  }
+  .contact label{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+  }
+  .contact input{
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: center;
+    width: 250px;
+    padding: 5px;
+    margin: 10px;
+  }
+  #button{
+    background-color: rgb(253, 89, 89);
+    color: black;
+    font-weight: bold;
+    align-items: center;
+  }
+  #button:hover{
+    background-color: antiquewhite;
+    cursor: pointer;
+  }

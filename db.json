@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "image": "https://images.pexels.com/photos/6685428/pexels-photo-6685428.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "title": "Starting JSON server",
+      "content": "lorem123In this video, We will be creating a full blogging with the help of just json server and React JS. In this blogging application, we have included feature like Create, Edit. Delete, Latest Post , Pagination, Search and Filter."
+    },
+    {
+      "id": 4,
+      "image": "https://cdn.pixabay.com/photo/2018/04/13/17/14/vegetable-skewer-3317060_960_720.jpg",
+      "title": "Starting JSON server",
+      "content": "lorem123In this video, We will be creating a full blogging with the help of just json server and React JS. In this blogging application, we have included feature like Create, Edit. Delete, Latest Post , Pagination, Search and Filter."
+    },
+    {
+      "id": 5,
+      "image": "https://cdn.pixabay.com/photo/2020/03/18/20/01/frankfurt-4945405_960_720.jpg",
+      "title": "Starting JSON server",
+      "content": "lorem123In this video, We will be creating a full blogging with the help of just json server and React JS. In this blogging application, we have included feature like Create, Edit. Delete, Latest Post , Pagination, Search and Filter."
+    },
+    {
+      "posts": {
+        "title": "Shivam Nayak",
+        "content": "A proper article indicates that its noun is proper, and refers to a unique entity. It may be the name of a person, the name of a place, the name of a planet, etc. The Māori language has the proper article a, which is used for personal nouns; so, \"a Pita\" means \"Peter\". In Māori, when the personal nouns have the definite or indefinite article as an important part of it, both articles are present; for example, the phrase \"a Te Rauparaha\", which contains both the proper article a and the definite article Te refers to the person name Te Rauparaha.\n\nThe definite article is sometimes also used with proper names, which are already specified by definition (there is just one of them). For example: the Amazon, the Hebrides. In these cases, the definite article may be considered superfluous. Its presence can be accounted for by the assumption that they are shorthand for a longer phrase in which the name is a specifier, i.e. the Amazon River, the Hebridean Islands.[citation needed] Where the nouns in such longer phrases cannot be omitted, the definite article is universally kept: the United States, the People's Republic of China. This distinction can sometimes become a political matter: the former usage the Ukraine stressed the word's Russian meaning of \"borderlands\"; as Ukraine became a fully independent state following the collapse of the Soviet Union, it requested that formal mentions of its name omit the article. Similar shifts in usage have occurred in the names of Sudan and both Congo (Brazzaville) and Congo (Kinshasa); a move in the other direction occurred with The Gambia. In certain languages, such as French and Italian, definite articles are used with all or most names of countries: la France/le Canada/l'Allemagne, l'Italia/la Spagna/il Brasile."
+      },
+      "id": 6
+    },
+    {
+      "posts": {
+        "title": "Shivam Nayak",
+        "content": "A proper article indicates that its noun is proper, and refers to a unique entity. It may be the name of a person, the name of a place, the name of a planet, etc. The Māori language has the proper article a, which is used for personal nouns; so, \"a Pita\" means \"Peter\". In Māori, when the personal nouns have the definite or indefinite article as an important part of it, both articles are present; for example, the phrase \"a Te Rauparaha\", which contains both the proper article a and the definite article Te refers to the person name Te Rauparaha.\n\nThe definite article is sometimes also used with proper names, which are already specified by definition (there is just one of them). For example: the Amazon, the Hebrides. In these cases, the definite article may be considered superfluous. Its presence can be accounted for by the assumption that they are shorthand for a longer phrase in which the name is a specifier, i.e. the Amazon River, the Hebridean Islands.[citation needed] Where the nouns in such longer phrases cannot be omitted, the definite article is universally kept: the United States, the People's Republic of China. This distinction can sometimes become a political matter: the former usage the Ukraine stressed the word's Russian meaning of \"borderlands\"; as Ukraine became a fully independent state following the collapse of the Soviet Union, it requested that formal mentions of its name omit the article. Similar shifts in usage have occurred in the names of Sudan and both Congo (Brazzaville) and Congo (Kinshasa); a move in the other direction occurred with The Gambia. In certain languages, such as French and Italian, definite articles are used with all or most names of countries: la France/le Canada/l'Allemagne, l'Italia/la Spagna/il Brasile."
+      },
+      "id": 7
+    }
+  ]
+}
